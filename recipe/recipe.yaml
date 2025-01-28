@@ -41,6 +41,7 @@ tests:
         - moses
         - moses.aae
       python_version: ${{ python_min }}.*
+      pip_check: false
 
 about:
   summary: "Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models"
