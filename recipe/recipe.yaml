@@ -27,7 +27,7 @@ requirements:
     - fcd_torch >=1.0.5
     - matplotlib-base >=3.0.0
     - numpy >=1.15
-    - pandas >=0.25
+    - pandas >=0.25,<2
     - pomegranate
     - scipy >=1.1.0
     - seaborn >=0.9.0
